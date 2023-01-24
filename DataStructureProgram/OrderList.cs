@@ -65,7 +65,7 @@ namespace DataStructureProgram
             }
             string concat = string.Concat(array);
             Console.WriteLine(concat);
-            File.WriteAllText(@"D:\14.SortedUnsorted\DataStructureProgram\DataStructureProgram\Order.txt", concat);
+            File.WriteAllText(@"D:\14.SortedUnsorted\DataStructureProgram\DataStructureProgram\Unorderlist.txt", concat);
 
         }
     }
